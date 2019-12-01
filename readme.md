@@ -1,4 +1,6 @@
 ## Loyaus
+	使用者可以匿名拍賣二手物品或競投想要的物品，其他人以出價的方式競標該物品。
+
 功能介紹：https://drive.google.com/file/d/1XOPzlit4uqgc_Os-9bVQK7qbyZsEtUTO/view?usp=sharing
 
 ## Laravel PHP Framework
