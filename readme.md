@@ -1,3 +1,6 @@
+## Loyaus
+功能介紹：https://drive.google.com/file/d/1XOPzlit4uqgc_Os-9bVQK7qbyZsEtUTO/view?usp=sharing
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
